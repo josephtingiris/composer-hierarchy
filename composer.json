@@ -1,0 +1,20 @@
+{
+    "name": "josephtingiris/composer-hierarchy",
+    "description": "Empty filesystem hierarchy and common composer.json for use with composer based projects.",
+    "type": "project",
+    "require": {
+        "composer/composer": "^1.4"
+    },
+    "require-dev": {
+        "0": "8",
+        "phpunit/phpunit": "^6.2",
+        "phpunit/phpunit-mock-objects": "^4.0"
+    },
+    "license": "GNU GPLv3",
+    "authors": [
+        {
+            "name": "Joseph Tingiris",
+            "email": "joseph.tingiris@gmail.com"
+        }
+    ]
+}
